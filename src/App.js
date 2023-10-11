@@ -14,7 +14,7 @@ import FAQ from "./scenes/faq";
 import Geography from "./scenes/geography";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from "./theme";
-import Calendar from "./scenes/calendar/calendar";
+import Calendar from "./scenes/calendar";
 import Fidelidade from "./scenes/fidelidade";
 
 function App() {
